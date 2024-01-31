@@ -1,4 +1,5 @@
-### Hi there 👋
+- 🖥️ I've been coding for over 5 years
+- ⏰ I’m currently working on my personal project, the Pomudoro "Rainpuff" Timer
 
 <!--
 **ricky-taing/ricky-taing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
