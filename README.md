@@ -1,6 +1,6 @@
-- 🖥️ Coding for over 5 years
-- ⏰ Developing personal project, the [Pomudoro "Rainpuff" Timer](https://github.com/ricky-taing/pomudoro-timer)
-- 🔭 Exploring web development, automation, web browser and Youtube extensions, Discord, Twitch bots and mods to assist streamers.
+- 🖥️ Coding for over 5 years in Java, Python, and JavaScript
+- ⏰ Developing my [Pomudoro "Rainpuff" Timer](https://github.com/ricky-taing/pomudoro-timer) web application
+- 🔭 Interested in automating everything using Selenium, streamlining user experience through web browser and Youtube extensions, assisting streamers with Twitch bots and mods
 - 😉 Ask me about how learning Japanese and programming is deeply connected
 
 <!--
