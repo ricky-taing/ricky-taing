@@ -1,6 +1,7 @@
-- 🖥️ I've been coding for over 5 years
-- ⏰ I’m currently working on my personal project, the Pomudoro "Rainpuff" Timer
-- 😉 Ask me about how learning Japanese and programmers are deeply connected
+- 🖥️ Coding for over 5 years
+- ⏰ Developing personal project, the [Pomudoro "Rainpuff" Timer](https://github.com/ricky-taing/pomudoro-timer)
+- 🔭 Exploring web development, automation, web browser and Youtube extensions, Discord, Twitch bots and mods to assist streamers.
+- 😉 Ask me about how learning Japanese and programming is deeply connected
 
 <!--
 **ricky-taing/ricky-taing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
