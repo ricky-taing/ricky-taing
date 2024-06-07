@@ -1,5 +1,5 @@
-- 🖥️ Coding for over 5 years in Java, Python, and JavaScript
-- ⏰ Developing my [Pomudoro "Rainpuff" Timer](https://github.com/ricky-taing/pomudoro-timer) web application
+- 🖥️ Coding for over 5 years using Java, Python, and JavaScript
+- ⏰ Developing my [personal website](https://ricky-taing.github.io/anime-list), built on Angular
 - 🔭 Interested in automating everything using Selenium, streamlining user experience through web browser and Youtube extensions, assisting streamers with Twitch bots and mods
 - 😉 Ask me about the various tools created to help learn Japanese such as Yomichan, Anki, Manga OCR!
 
